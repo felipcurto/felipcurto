@@ -1,16 +1,15 @@
-### Hi there 👋
+###  Hola que tal soc Felip
 
-<!--
-**felipcurto/felipcurto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bones soc un alumne de 1r ASIX i aquest es el meu repositori que utilitzo per realitzar feina a l'assignatura de MP10.
 
-Here are some ideas to get you started:
+Companys:
+-Felip Curto
+-Oriol Mora
+-Max Segura
+-Josep Pellisa
+-Joan Bayo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+YT: https://www.youtube.com/
+
+😄📫💬🤔👯🌱🔭
+
